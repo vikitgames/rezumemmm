@@ -1,0 +1,86 @@
+[13:50] Хмылов Антон Вячеславович
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style/normalize.css">
+<link rel= "stylesheet" href="styles/style.css">
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon1.ico">
+<title>Портфолио </title>
+</head>
+<body>
+<div class ="page">
+<header>
+<nav>
+<ul>
+<li><a href="#0">Обо мне</a></li>
+<li><a href="#1">Хиггс</a></li>
+<li><a href="#2">Спартанец</a></li>
+<li><a href="#3">Ghostrunner</a></li>
+<li><a href="#4">Патрик Джейн</a></li>
+<li><a href="#5">Сталкер-Ветеран</a></li>
+<li><a href="#6">контакты</a></li>
+</ul>
+</nav>
+</header>
+<main class="content">
+<section class="about">
+<a name="0"></a>
+<h2>Резюме</h2>
+<div><strong>Дата рождения: 04.05.2003</strong>
+<br>
+<br> <strong> Проживание: Улица Текстильщиков дом 7. Фряново</strong>
+<br>
+<br> <strong> Ключевые знания и навыки:</strong>
+<ul>
+<li>Знаток своего дела</li>
+<li>Годами изучал фигурки</li>
+<li>Знаю подоплёку и что я делаю</li>
+</ul>
+</div>
+<img src="images/photo1.jpg" alt="Это я - генеральный конструктор и организатор" width="500px"> <span>Это я </span>
+</section>
+<section class="projects">
+<h2>Участие в проектах:</h2>
+<div id="project1">
+<a name="х"></a>
+<h3> Хиггс </h3> <span> </span></div>
+<div id="project2">
+<a name="2"></a>
+<h3> Спартанец </h3> <span> </span></div>
+</section>
+<section class="future">
+<a name="3"></a>
+<h2> Сейчас я работаю </h2>
+<a href="pages/page1.html">
+<div class="cover">
+<div class="back">
+</div>
+</div>
+<p>Над еще многими проектами
+<br> (нажмите узнать подробнее) </p>
+</a>
+</section>
+</main>
+<footer>
+<a name="4"></a>
+<p class="contacts">
+Мой телефон -
+<a href="tel:89267505238"> +7 (926)-750-52-38</a>
+Моя почта
+<a href="mailto:antonhmylov2003@yandex.ru">antonhmylov2003@yandex.ru</a>
+Социальные сети
+<a href="@clasiksexodobrenoifyouvika" target="blank">VK</a>
+</p>
+<p>
+тут будет значок успешной валидации
+</p>
+<p class"superfooter">
+Этот сайт создан и проверен валидном
+<a href=https://validator.w3.org/nu/?doc=http://YORSITE" target="_blank"> Html и Css</a>
+в рамках моего обучения веб разработки в колледже
+<a href="http://www.igumo.ru/" target="_blank">Mkik</a></p>
+</div>
+</body>
+</html>
+
